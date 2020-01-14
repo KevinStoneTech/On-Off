@@ -12,7 +12,7 @@
 //troque onde está PORTA DO SERVIDOR pelo ip do server ex:192.168.1.0 | porta:2222
 
 ################################################################################
-$fpCTA = @fsockopen("10.78.4.2", 53, $errno, $errstr, 1);
+$fpCTA = @fsockopen("8.8.8.8", 53, $errno, $errstr, 1);
 
 if($fpCTA >= 1){
 
