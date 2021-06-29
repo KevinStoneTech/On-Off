@@ -5,3 +5,5 @@
 ### Funcionamento: A página faz um refresh em 5 em 5 segundos, para mostrar o status do servidor ou serviço.
 
 ### Utiliza-se o IP do Servidor e a Porta do Serviço que se encontra no servidor, para gerar o Status. 
+
+<img src="captStatus.png">
