@@ -1,6 +1,37 @@
+/*
 html {
-  background: #C0D9D9; 
-  font-size: 30px;
-  text-shadow: 1px 1px #000;
+  background: #C0D9D9;
+  font-size: 18px;
+  text-shadow: 1px 1px #000; 
 }
 
+table {
+  width: 300px;
+  border-radius: 2px;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.container {
+  margin: auto;
+  width: 50% !important;
+}
+*/
+
+.table-responsive{
+  width: 100% !important;
+}
+
+.table {
+    border: 1px solid red;
+    width: 50% !important; /*Importante manter o !important rs */
+    margin: auto;
+}
+
+.table-status {
+    margin-top: 20px;
+    margin-bottom: 20px !important;
+    text-align: center;
+    align-items: center;
+}
